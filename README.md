@@ -1,3 +1,4 @@
+# Unsupervised-Vehicle-Telemetry-Clustering
 ⭐ **1. Introduction**
 
 Modern commercial vehicles generate high-frequency telemetry signals that are first processed and structured in a separate upstream pipeline (See Commercial-Vehicle-Telemetry-Analytics-Pipeline repository).
@@ -145,7 +146,7 @@ No raw or sensitive data is included.
 
 ---
 
-👨‍💻 **11. Key Takeaways / Skills Demonstrated**
+👨‍💻 **11. Skills Demonstrated**
 
 Through this project, I demonstrate my ability to work on topics such as 
 
